@@ -1,2 +1,0 @@
-# SEGWIT
-" contemporary art "
